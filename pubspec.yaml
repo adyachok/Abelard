@@ -1,0 +1,59 @@
+name: pegasus
+description: A new Flutter project.
+
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.15.1 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  equatable: ^2.0.3
+  firebase_core: ^1.12.0
+  firebase_messaging: ^11.2.6
+  flutter_bloc: ^8.0.1
+  flutter_local_notifications: ^9.3.0
+  marquee: ^2.2.0
+  provider: ^6.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  assets:
+    - assets/horse.jpeg
+    - assets/horse_1.jpeg
+    - assets/horse_2.jpeg
+    - assets/Equine_health_technology.jpeg
+    - assets/Equine_herpesvirus.jpeg
+    - assets/equiphoria-session-tile.jpeg
+    - assets/BI_TMA_award_2021_3.jpeg
+    - assets/EquiHaler_001_2019-08-27_exhale_5790_0.jpeg
+
+  fonts:
+    - family: Segment7
+      fonts:
+        - asset: assets/fonts/Segment7-4Gml.otf
+    - family: Digital7
+      fonts:
+        - asset: assets/fonts/Digital7.ttf
+

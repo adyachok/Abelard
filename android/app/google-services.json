@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "510035813107",
+    "project_id": "pegasus-83b7d",
+    "storage_bucket": "pegasus-83b7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510035813107:android:87097ea38be0d78a1bcd86",
+        "android_client_info": {
+          "package_name": "com.andras.pegasus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510035813107-u0sulb16nk1aq5mc8jt4r3de13btfsju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOBGtna_NRR5IuCx-dccxMKwvuApSutzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510035813107-u0sulb16nk1aq5mc8jt4r3de13btfsju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
